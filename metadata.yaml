@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1108
     wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15432#Henry-BrockenHis-Travels-and-Adventures-in-the-Rich-Strange-Scarce-Imaginable-Regions-of-Roma_
 gutenberg_issued: '2005-03-21'
 gutenberg_type: Text
 identifiers:

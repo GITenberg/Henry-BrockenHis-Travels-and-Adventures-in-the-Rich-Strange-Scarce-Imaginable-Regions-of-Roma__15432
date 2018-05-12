@@ -1,0 +1,36 @@
+_repo: Henry-BrockenHis-Travels-and-Adventures-in-the-Rich-Strange-Scarce-Imaginable-Regions-of-Roma__15432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De la Mare, Walter
+    aliases:
+    - Ramal, Walter
+    - Mare, Walter de la
+    - De la Mare, Walter John
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+description: ''
+gutenberg_issued: '2005-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcsh 'Books and reading -- Fiction'
+- !lcsh 'Characters and characteristics in literature -- Fiction'
+- !lcc 'PR'
+title: 'Henry Brocken
+
+  His Travels and Adventures in the Rich, Strange, Scarce-Imaginable Regions of Romance'
+url: http://www.gutenberg.org/ebooks/15432
